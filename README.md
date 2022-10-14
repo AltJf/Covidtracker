@@ -10,7 +10,3 @@ pandas
 beautifulSoup
 
 numPy
-
-
-
-enjoy.
