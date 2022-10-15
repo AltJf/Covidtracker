@@ -12,4 +12,4 @@ beautifulSoup
 
 lxml
 
-open source. if you have an idea, shoot me an email to marcel.lammers@gmx.net
+open source. have fun.
